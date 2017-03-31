@@ -1,1 +1,1 @@
-include ':app', ':moudle1', ':moudle2'
+include ':app', ':moudle1', ':moudle2', ':otherrouter'

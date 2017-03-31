@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/moudle1" />
             <option value="$PROJECT_DIR$/moudle2" />
+            <option value="$PROJECT_DIR$/otherrouter" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
